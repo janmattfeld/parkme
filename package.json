@@ -1,0 +1,36 @@
+{
+  "name": "ParkMe",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ParkMe",
+  "main": "server/parkme-server.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.13.4",
+    "fahrplan": "^0.3.4",
+    "request": "^2.72.0",
+    "serve-static": "^1.10.2"
+  },
+  "devDependencies": {
+    "eslint": "^3.5.0",
+    "nodemon": "^1.9.2",
+    "request-debug": "^0.2.0"
+  },
+  "scripts": {
+    "prestart": "npm install",
+    "postinstall": "bower install",
+    "start": "nodemon ."
+  },
+  "author": "Jan Mattfeld",
+  "contributors": [
+    {
+      "name": "Jan Mattfeld",
+      "email": "Jan.Mattfeld@student.hpi.de"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "MIT"
+}

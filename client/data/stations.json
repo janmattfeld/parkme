@@ -1,0 +1,1460 @@
+{
+	"type" : "result",
+	"version" : 1,
+	"totalCount" : 145,
+	"count" : 145,
+	"offset" : 0,
+	"limit" : 0,
+	"results" : [{
+			"type" : "stationCms",
+			"bahnhofsNummer" : 4,
+			"cityTitle" : "Aalen",
+			"evaNummer" : 8000002,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "308",
+			"mainPicId_en" : "8018",
+			"station" : "Aalen"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 134,
+			"cityTitle" : "Amberg",
+			"evaNummer" : 8000566,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "12799",
+			"mainPicId_en" : "12801",
+			"station" : "Amberg"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 161,
+			"cityTitle" : "Ansbach",
+			"evaNummer" : 8000009,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "312",
+			"mainPicId_en" : "7802",
+			"station" : "Ansbach"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 187,
+			"cityTitle" : "Aschaffenburg",
+			"evaNummer" : 8000010,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "2540",
+			"mainPicId_en" : "7944",
+			"station" : "Aschaffenburg Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 226,
+			"cityTitle" : "Aulendorf",
+			"evaNummer" : 8000014,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "299",
+			"mainPicId_en" : "7932",
+			"station" : "Aulendorf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 282,
+			"cityTitle" : "Bad Hersfeld",
+			"evaNummer" : 8000020,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "17125",
+			"mainPicId_en" : "17126",
+			"station" : "Bad Hersfeld"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 296,
+			"cityTitle" : "Bad Kreuznach",
+			"evaNummer" : 8000021,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "332",
+			"mainPicId_en" : "7883",
+			"station" : "Bad Kreuznach"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 317,
+			"cityTitle" : "Bad Oldesloe",
+			"evaNummer" : 8000023,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "3294",
+			"mainPicId_en" : "7806",
+			"station" : "Bad Oldesloe"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 393,
+			"cityTitle" : "Bamberg",
+			"evaNummer" : 8000025,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "328",
+			"mainPicId_en" : "7981",
+			"station" : "Bamberg"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 439,
+			"cityTitle" : "Bayreuth",
+			"evaNummer" : 8000028,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "110",
+			"mainPicId_en" : "7818",
+			"station" : "Bayreuth Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 720,
+			"cityTitle" : "Böblingen",
+			"evaNummer" : 8001055,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "4390",
+			"mainPicId_en" : "7899",
+			"station" : "Böblingen"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 1071,
+			"cityTitle" : "Berlin",
+			"evaNummer" : 8098160,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "2529",
+			"mainPicId_en" : "7957",
+			"station" : "Berlin Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 530,
+			"cityTitle" : "Berlin",
+			"evaNummer" : 8010255,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "1157",
+			"mainPicId_en" : "7937",
+			"station" : "Berlin Ostbahnhof"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 4859,
+			"cityTitle" : "Berlin",
+			"evaNummer" : 8011113,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "2533",
+			"mainPicId_en" : "7878",
+			"station" : "Berlin Südkreuz"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 649,
+			"cityTitle" : "Bingen am Rhein",
+			"evaNummer" : 8000039,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "280",
+			"mainPicId_en" : "7833",
+			"station" : "Bingen (Rhein) Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 724,
+			"cityTitle" : "Bochum",
+			"evaNummer" : 8000041,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "2468",
+			"mainPicId_en" : "7809",
+			"station" : "Bochum Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 767,
+			"cityTitle" : "Bonn",
+			"evaNummer" : 8000044,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "112",
+			"mainPicId_en" : "7909",
+			"station" : "Bonn Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 768,
+			"cityTitle" : "Bonn",
+			"evaNummer" : 8001082,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "1159",
+			"mainPicId_en" : "7907",
+			"station" : "Bonn-Bad Godesberg"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 771,
+			"cityTitle" : "Bonn",
+			"evaNummer" : 8001085,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "24221",
+			"mainPicId_en" : "24223",
+			"station" : "Bonn-Mehlem"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 835,
+			"cityTitle" : "Braunschweig",
+			"evaNummer" : 8000049,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "113",
+			"mainPicId_en" : "7946",
+			"station" : "Braunschweig Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 855,
+			"cityTitle" : "Bremen",
+			"evaNummer" : 8000050,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "114",
+			"mainPicId_en" : "7800",
+			"station" : "Bremen Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 866,
+			"cityTitle" : "Bremen",
+			"evaNummer" : 8001166,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "297",
+			"mainPicId_en" : "7955",
+			"station" : "Bremen-Vegesack"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 904,
+			"cityTitle" : "Bruchsal",
+			"evaNummer" : 8000055,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "115",
+			"mainPicId_en" : "7808",
+			"station" : "Bruchsal"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 1076,
+			"cityTitle" : "Coswig in Sachsen",
+			"evaNummer" : 8010072,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "324",
+			"mainPicId_en" : "7864",
+			"station" : "Coswig (Bz Dresden)"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 1079,
+			"cityTitle" : "Crailsheim",
+			"evaNummer" : 8000067,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "325",
+			"mainPicId_en" : "7865",
+			"station" : "Crailsheim"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 1392,
+			"cityTitle" : "Düren",
+			"evaNummer" : 8000084,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "21048",
+			"mainPicId_en" : "21050",
+			"station" : "Düren"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 1401,
+			"cityTitle" : "Düsseldorf",
+			"evaNummer" : 8000085,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "119",
+			"mainPicId_en" : "7973",
+			"station" : "Düsseldorf Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 1159,
+			"cityTitle" : "Delmenhorst",
+			"evaNummer" : 8000070,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "1311",
+			"mainPicId_en" : "7823",
+			"station" : "Delmenhorst"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 1216,
+			"cityTitle" : "Dillingen an der Saar",
+			"evaNummer" : 8000075,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "21184",
+			"mainPicId_en" : "21185",
+			"station" : "Dillingen (Saar)"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 1289,
+			"cityTitle" : "Dortmund",
+			"evaNummer" : 8000080,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "2429",
+			"mainPicId_en" : "7924",
+			"station" : "Dortmund Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 1374,
+			"cityTitle" : "Duisburg",
+			"evaNummer" : 8000086,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "118",
+			"mainPicId_en" : "7842",
+			"station" : "Duisburg Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 1528,
+			"cityTitle" : "Eisenach",
+			"evaNummer" : 8010097,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "120",
+			"mainPicId_en" : "7975",
+			"station" : "Eisenach"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 1558,
+			"cityTitle" : "Elmshorn",
+			"evaNummer" : 8000092,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "3450",
+			"mainPicId_en" : "7948",
+			"station" : "Elmshorn"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 1650,
+			"cityTitle" : "Erlangen",
+			"evaNummer" : 8001844,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "323",
+			"mainPicId_en" : "7898",
+			"station" : "Erlangen"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 1690,
+			"cityTitle" : "Essen",
+			"evaNummer" : 8000098,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "121",
+			"mainPicId_en" : "7861",
+			"station" : "Essen Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 1734,
+			"cityTitle" : "Euskirchen",
+			"evaNummer" : 8000100,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "9848",
+			"mainPicId_en" : "9849",
+			"station" : "Euskirchen"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 1977,
+			"cityTitle" : "Fürstenfeldbruck",
+			"evaNummer" : 8002141,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "16983",
+			"mainPicId_en" : "16985",
+			"station" : "Fürstenfeldbruck"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 1830,
+			"cityTitle" : "Forchheim in Oberfranken",
+			"evaNummer" : 8002024,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "7896",
+			"mainPicId_en" : "0",
+			"station" : "Forchheim (Oberfr)"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 1848,
+			"cityTitle" : "Frankenthal",
+			"evaNummer" : 8000332,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "315",
+			"mainPicId_en" : "7835",
+			"station" : "Frankenthal Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 1866,
+			"cityTitle" : "Frankfurt am Main",
+			"evaNummer" : 8000105,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "122",
+			"mainPicId_en" : "8005",
+			"station" : "Frankfurt (Main) Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 1858,
+			"cityTitle" : "Frankfurt am Main",
+			"evaNummer" : 8002042,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "314",
+			"mainPicId_en" : "7919",
+			"station" : "Frankfurt (Main) West"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 1872,
+			"cityTitle" : "Frankfurt am Main",
+			"evaNummer" : 8000106,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "294",
+			"mainPicId_en" : "7967",
+			"station" : "Frankfurt-Höchst"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 1763,
+			"cityTitle" : "Frankfurt am Main",
+			"evaNummer" : 8002051,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "21078",
+			"mainPicId_en" : "21080",
+			"station" : "Frankfurt-Höchst Farbwerke"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 1891,
+			"cityTitle" : "Freiberg in Sachsen",
+			"evaNummer" : 8010115,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "346",
+			"mainPicId_en" : "8012",
+			"station" : "Freiberg (Sachs)"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 1893,
+			"cityTitle" : "Freiburg im Breisgau",
+			"evaNummer" : 8000107,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "123",
+			"mainPicId_en" : "7977",
+			"station" : "Freiburg (Breisgau) Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 1930,
+			"cityTitle" : "Friedberg in Hessen",
+			"evaNummer" : 8000111,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "290",
+			"mainPicId_en" : "8014",
+			"station" : "Friedberg (Hess)"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 1973,
+			"cityTitle" : "Fulda",
+			"evaNummer" : 8000115,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "124",
+			"mainPicId_en" : "7954",
+			"station" : "Fulda"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 2014,
+			"cityTitle" : "Garmisch-Partenkirchen",
+			"evaNummer" : 8002187,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "2503",
+			"mainPicId_en" : "7933",
+			"station" : "Garmisch-Partenkirchen"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 2189,
+			"cityTitle" : "Göppingen",
+			"evaNummer" : 8000127,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "334",
+			"mainPicId_en" : "7844",
+			"station" : "Göppingen"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 2218,
+			"cityTitle" : "Göttingen",
+			"evaNummer" : 8000128,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "2446",
+			"mainPicId_en" : "7970",
+			"station" : "Göttingen"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 2045,
+			"cityTitle" : "Geislingen an der Steige",
+			"evaNummer" : 8002218,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "335",
+			"mainPicId_en" : "7843",
+			"station" : "Geislingen (Steige)"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 2051,
+			"cityTitle" : "Gelnhausen",
+			"evaNummer" : 8000117,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "283",
+			"mainPicId_en" : "7853",
+			"station" : "Gelnhausen"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 2060,
+			"cityTitle" : "Gemünden am Main",
+			"evaNummer" : 8000120,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "348",
+			"mainPicId_en" : "8004",
+			"station" : "Gemünden (Main)"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 2073,
+			"cityTitle" : "Gera",
+			"evaNummer" : 8010125,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "327",
+			"mainPicId_en" : "7960",
+			"station" : "Gera Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 2075,
+			"cityTitle" : "Gera",
+			"evaNummer" : 8010126,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "293",
+			"mainPicId_en" : "7890",
+			"station" : "Gera Süd"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 2120,
+			"cityTitle" : "Gießen",
+			"evaNummer" : 8000124,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "286",
+			"mainPicId_en" : "10124",
+			"station" : "Gießen"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 2498,
+			"cityTitle" : "Halle an der Saale",
+			"evaNummer" : 8010159,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "125",
+			"mainPicId_en" : "7855",
+			"station" : "Halle (Saale) Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 2514,
+			"cityTitle" : "Hamburg",
+			"evaNummer" : 8002549,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "1127",
+			"mainPicId_en" : "7914",
+			"station" : "Hamburg Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 2519,
+			"cityTitle" : "Hamburg",
+			"evaNummer" : 8000147,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "310",
+			"mainPicId_en" : "7923",
+			"station" : "Hamburg-Harburg"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 2528,
+			"cityTitle" : "Hamm in Westfalen",
+			"evaNummer" : 8000149,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "2458",
+			"mainPicId_en" : "7889",
+			"station" : "Hamm (Westf)"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 2537,
+			"cityTitle" : "Hanau",
+			"evaNummer" : 8000150,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "126",
+			"mainPicId_en" : "7791",
+			"station" : "Hanau Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 2545,
+			"cityTitle" : "Hannover",
+			"evaNummer" : 8000152,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "127",
+			"mainPicId_en" : "7976",
+			"station" : "Hannover Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 2628,
+			"cityTitle" : "Heidelberg",
+			"evaNummer" : 8000156,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "128",
+			"mainPicId_en" : "7857",
+			"station" : "Heidelberg Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 2648,
+			"cityTitle" : "Heilbronn",
+			"evaNummer" : 8000157,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "129",
+			"mainPicId_en" : "7935",
+			"station" : "Heilbronn Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 2734,
+			"cityTitle" : "Hersbruck",
+			"evaNummer" : 8002794,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "22762",
+			"mainPicId_en" : "22764",
+			"station" : "Hersbruck (rechts Pegnitz)"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 2765,
+			"cityTitle" : "Hildesheim",
+			"evaNummer" : 8000169,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "130",
+			"mainPicId_en" : "7847",
+			"station" : "Hildesheim Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 2818,
+			"cityTitle" : "Hof",
+			"evaNummer" : 8002924,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "318",
+			"mainPicId_en" : "7822",
+			"station" : "Hof Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 2888,
+			"cityTitle" : "Holzkirchen",
+			"evaNummer" : 8002980,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "22765",
+			"mainPicId_en" : "22767",
+			"station" : "Holzkirchen"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 2892,
+			"cityTitle" : "Homburg an der Saar",
+			"evaNummer" : 8000176,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "309",
+			"mainPicId_en" : "7990",
+			"station" : "Homburg (Saar) Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 2953,
+			"cityTitle" : "Husum",
+			"evaNummer" : 8000181,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "352",
+			"mainPicId_en" : "7908",
+			"station" : "Husum"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 3082,
+			"cityTitle" : "Kaiserslautern",
+			"evaNummer" : 8000189,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "131",
+			"mainPicId_en" : "0",
+			"station" : "Kaiserslautern Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 3107,
+			"cityTitle" : "Karlsruhe",
+			"evaNummer" : 8000191,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "132",
+			"mainPicId_en" : "7985",
+			"station" : "Karlsruhe Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 3109,
+			"cityTitle" : "Karlsruhe",
+			"evaNummer" : 8003184,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "333",
+			"mainPicId_en" : "7786",
+			"station" : "Karlsruhe-Durlach"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 3124,
+			"cityTitle" : "Kassel",
+			"evaNummer" : 8000193,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "133",
+			"mainPicId_en" : "7834",
+			"station" : "Kassel Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 3127,
+			"cityTitle" : "Kassel",
+			"evaNummer" : 8003200,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "134",
+			"mainPicId_en" : "7958",
+			"station" : "Kassel-Wilhelmshöhe"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 3320,
+			"cityTitle" : "Köln",
+			"evaNummer" : 8000207,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "135",
+			"mainPicId_en" : "7904",
+			"station" : "Köln Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 3336,
+			"cityTitle" : "Köln",
+			"evaNummer" : 8000209,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "282",
+			"mainPicId_en" : "7901",
+			"station" : "Köln-Mülheim"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 3155,
+			"cityTitle" : "Kempten im Allgäu",
+			"evaNummer" : 8000197,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "338",
+			"mainPicId_en" : "7845",
+			"station" : "Kempten (Allgäu) Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 3194,
+			"cityTitle" : "Kirchheim unter Teck",
+			"evaNummer" : 8003280,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "1313",
+			"mainPicId_en" : "7921",
+			"station" : "Kirchheim (Teck)"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 3300,
+			"cityTitle" : "Koblenz",
+			"evaNummer" : 8003351,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "21094",
+			"mainPicId_en" : "21096",
+			"station" : "Koblenz-Ehrenbreitstein"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 3377,
+			"cityTitle" : "Korntal",
+			"evaNummer" : 8003409,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "3622",
+			"mainPicId_en" : "7986",
+			"station" : "Korntal"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 3458,
+			"cityTitle" : "Kulmbach",
+			"evaNummer" : 8003476,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "871",
+			"mainPicId_en" : "7876",
+			"station" : "Kulmbach"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 3505,
+			"cityTitle" : "Landau",
+			"evaNummer" : 8000216,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "304",
+			"mainPicId_en" : "7911",
+			"station" : "Landau (Pfalz) Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 3807,
+			"cityTitle" : "Lübeck",
+			"evaNummer" : 8000237,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "1172",
+			"mainPicId_en" : "7942",
+			"station" : "Lübeck Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 3700,
+			"cityTitle" : "Lichtenfels",
+			"evaNummer" : 8000228,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "313",
+			"mainPicId_en" : "7971",
+			"station" : "Lichtenfels"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 3723,
+			"cityTitle" : "Limburg an der Lahn",
+			"evaNummer" : 8003680,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "4520",
+			"mainPicId_en" : "7966",
+			"station" : "Limburg Süd"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 3727,
+			"cityTitle" : "Lindau",
+			"evaNummer" : 8000230,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "303",
+			"mainPicId_en" : "7869",
+			"station" : "Lindau Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 3833,
+			"cityTitle" : "Ludwigsburg",
+			"evaNummer" : 8000235,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "2881",
+			"mainPicId_en" : "7891",
+			"station" : "Ludwigsburg"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 3837,
+			"cityTitle" : "Ludwigshafen",
+			"evaNummer" : 8000236,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "307",
+			"mainPicId_en" : "7863",
+			"station" : "Ludwigshafen (Rhein) Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 3881,
+			"cityTitle" : "Magdeburg",
+			"evaNummer" : 8010224,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "136",
+			"mainPicId_en" : "7928",
+			"station" : "Magdeburg Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 3898,
+			"cityTitle" : "Mainz",
+			"evaNummer" : 8000240,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "2411",
+			"mainPicId_en" : "7916",
+			"station" : "Mainz Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 3904,
+			"cityTitle" : "Mainz",
+			"evaNummer" : 8000615,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "341",
+			"mainPicId_en" : "7839",
+			"station" : "Mainz-Kastel"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 3979,
+			"cityTitle" : "Marktredwitz",
+			"evaNummer" : 8000247,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "302",
+			"mainPicId_en" : "7917",
+			"station" : "Marktredwitz"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 4234,
+			"cityTitle" : "München",
+			"evaNummer" : 8000261,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "138",
+			"mainPicId_en" : "7881",
+			"station" : "München Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 4036,
+			"cityTitle" : "Meißen",
+			"evaNummer" : 8012326,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "2354",
+			"mainPicId_en" : "7905",
+			"station" : "Meißen"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 4051,
+			"cityTitle" : "Memmingen",
+			"evaNummer" : 8000249,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "337",
+			"mainPicId_en" : "7801",
+			"station" : "Memmingen"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 4120,
+			"cityTitle" : "Minden",
+			"evaNummer" : 8000252,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "301",
+			"mainPicId_en" : "8006",
+			"station" : "Minden (Westf)"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 4426,
+			"cityTitle" : "Neunkirchen an der Saar",
+			"evaNummer" : 8000272,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "347",
+			"mainPicId_en" : "7997",
+			"station" : "Neunkirchen (Saar) Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 4440,
+			"cityTitle" : "Neuss",
+			"evaNummer" : 8000274,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "296",
+			"mainPicId_en" : "7870",
+			"station" : "Neuss Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 4454,
+			"cityTitle" : "Neustadt an der Weinstraße",
+			"evaNummer" : 8000275,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "140",
+			"mainPicId_en" : "7862",
+			"station" : "Neustadt (Weinstr) Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 4472,
+			"cityTitle" : "Niebüll",
+			"evaNummer" : 8004343,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "18671",
+			"mainPicId_en" : "18672",
+			"station" : "Niebüll"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 4576,
+			"cityTitle" : "Nordhausen",
+			"evaNummer" : 8010256,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "311",
+			"mainPicId_en" : "7887",
+			"station" : "Nordhausen"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 4745,
+			"cityTitle" : "Offenburg",
+			"evaNummer" : 8000290,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "141",
+			"mainPicId_en" : "7936",
+			"station" : "Offenburg"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 4787,
+			"cityTitle" : "Osnabrück",
+			"evaNummer" : 8000294,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "142",
+			"mainPicId_en" : "7930",
+			"station" : "Osnabrück Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 4872,
+			"cityTitle" : "Passau",
+			"evaNummer" : 8000298,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "298",
+			"mainPicId_en" : "7797",
+			"station" : "Passau Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 4952,
+			"cityTitle" : "Plattling",
+			"evaNummer" : 8000301,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "317",
+			"mainPicId_en" : "7877",
+			"station" : "Plattling"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 4967,
+			"cityTitle" : "Plochingen",
+			"evaNummer" : 8000302,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "3520",
+			"mainPicId_en" : "7893",
+			"station" : "Plochingen"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 5035,
+			"cityTitle" : "Prien am Chiemsee",
+			"evaNummer" : 8004885,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "357",
+			"mainPicId_en" : "8001",
+			"station" : "Prien am Chiemsee"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 5125,
+			"cityTitle" : "Rastatt",
+			"evaNummer" : 8000306,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "351",
+			"mainPicId_en" : "7964",
+			"station" : "Rastatt"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 5160,
+			"cityTitle" : "Recklinghausen",
+			"evaNummer" : 8000307,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "356",
+			"mainPicId_en" : "8017",
+			"station" : "Recklinghausen Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 5169,
+			"cityTitle" : "Regensburg",
+			"evaNummer" : 8000309,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "143",
+			"mainPicId_en" : "7989",
+			"station" : "Regensburg Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 5251,
+			"cityTitle" : "Rheine",
+			"evaNummer" : 8000316,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "329",
+			"mainPicId_en" : "7987",
+			"station" : "Rheine"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 5276,
+			"cityTitle" : "Riesa",
+			"evaNummer" : 8010297,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "289",
+			"mainPicId_en" : "7998",
+			"station" : "Riesa"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 5451,
+			"cityTitle" : "Saarbrücken",
+			"evaNummer" : 8000323,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "145",
+			"mainPicId_en" : "7927",
+			"station" : "Saarbrücken Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 1821,
+			"cityTitle" : "Schönefeld",
+			"evaNummer" : 8010109,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "111",
+			"mainPicId_en" : "7984",
+			"station" : "Schönefeld"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 5601,
+			"cityTitle" : "Schlüchtern",
+			"evaNummer" : 8000891,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "339",
+			"mainPicId_en" : "7886",
+			"station" : "Schlüchtern"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 5710,
+			"cityTitle" : "Schwandorf",
+			"evaNummer" : 8000027,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "320",
+			"mainPicId_en" : "8015",
+			"station" : "Schwandorf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 5742,
+			"cityTitle" : "Schweinfurt",
+			"evaNummer" : 8000032,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "336",
+			"mainPicId_en" : "7838",
+			"station" : "Schweinfurt Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 5755,
+			"cityTitle" : "Schwerin",
+			"evaNummer" : 8010324,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "305",
+			"mainPicId_en" : "7836",
+			"station" : "Schwerin Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 5842,
+			"cityTitle" : "Siegen",
+			"evaNummer" : 8000046,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "2486",
+			"mainPicId_en" : "7824",
+			"station" : "Siegen"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 5865,
+			"cityTitle" : "Singen (Hohentwiel)",
+			"evaNummer" : 8000073,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "354",
+			"mainPicId_en" : "7866",
+			"station" : "Singen (Hohentwiel)"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 5986,
+			"cityTitle" : "Steinau an der Straße",
+			"evaNummer" : 8005690,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "321",
+			"mainPicId_en" : "7988",
+			"station" : "Steinau (Straße)"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 6010,
+			"cityTitle" : "Stendal",
+			"evaNummer" : 8010334,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "3358",
+			"mainPicId_en" : "7903",
+			"station" : "Stendal"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 6049,
+			"cityTitle" : "Stralsund",
+			"evaNummer" : 8010338,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "146",
+			"mainPicId_en" : "7794",
+			"station" : "Stralsund Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 6056,
+			"cityTitle" : "Straubing",
+			"evaNummer" : 8000095,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "291",
+			"mainPicId_en" : "7796",
+			"station" : "Straubing"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 6071,
+			"cityTitle" : "Stuttgart",
+			"evaNummer" : 8000096,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "147",
+			"mainPicId_en" : "7993",
+			"station" : "Stuttgart Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 6090,
+			"cityTitle" : "Stuttgart",
+			"evaNummer" : 8005778,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "2544",
+			"mainPicId_en" : "8013",
+			"station" : "Stuttgart-Zuffenhausen"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 6279,
+			"cityTitle" : "Tübingen",
+			"evaNummer" : 8000141,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "306",
+			"mainPicId_en" : "8000",
+			"station" : "Tübingen Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 6256,
+			"cityTitle" : "Schwalmstadt-Treysa",
+			"evaNummer" : 8000129,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "344",
+			"mainPicId_en" : "7978",
+			"station" : "Treysa"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 6264,
+			"cityTitle" : "Trier",
+			"evaNummer" : 8000134,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "349",
+			"mainPicId_en" : "7972",
+			"station" : "Trier Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 6273,
+			"cityTitle" : "Troisdorf",
+			"evaNummer" : 8000135,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "21180",
+			"mainPicId_en" : "21182",
+			"station" : "Troisdorf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 6323,
+			"cityTitle" : "Ulm",
+			"evaNummer" : 8000170,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "148",
+			"mainPicId_en" : "7922",
+			"station" : "Ulm Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 6445,
+			"cityTitle" : "Völklingen",
+			"evaNummer" : 8000175,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "5380",
+			"mainPicId_en" : "7817",
+			"station" : "Völklingen"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 6545,
+			"cityTitle" : "Warnemünde",
+			"evaNummer" : 8013236,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "288",
+			"mainPicId_en" : "7812",
+			"station" : "Warnemünde"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 6460,
+			"cityTitle" : "Wächtersbach",
+			"evaNummer" : 8006132,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "281",
+			"mainPicId_en" : "7918",
+			"station" : "Wächtersbach"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 6945,
+			"cityTitle" : "Würzburg",
+			"evaNummer" : 8000260,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "152",
+			"mainPicId_en" : "7787",
+			"station" : "Würzburg Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 6597,
+			"cityTitle" : "Weiden in der Oberpfalz",
+			"evaNummer" : 8000204,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "15852",
+			"mainPicId_en" : "15853",
+			"station" : "Weiden (Oberpf)"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 6616,
+			"cityTitle" : "Weilheim in Oberbayern",
+			"evaNummer" : 8000220,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "322",
+			"mainPicId_en" : "8002",
+			"station" : "Weilheim (Oberbay)"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 6617,
+			"cityTitle" : "Weimar",
+			"evaNummer" : 8010366,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "149",
+			"mainPicId_en" : "7850",
+			"station" : "Weimar"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 6744,
+			"cityTitle" : "Wiesbaden",
+			"evaNummer" : 8000250,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "150",
+			"mainPicId_en" : "7925",
+			"station" : "Wiesbaden Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 6834,
+			"cityTitle" : "Wittlich",
+			"evaNummer" : 8000379,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "331",
+			"mainPicId_en" : "7888",
+			"station" : "Wittlich Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 6859,
+			"cityTitle" : "Wolfsburg",
+			"evaNummer" : 8006552,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "2460",
+			"mainPicId_en" : "7892",
+			"station" : "Wolfsburg Hbf"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 6928,
+			"cityTitle" : "Wuppertal",
+			"evaNummer" : 8006719,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "3279",
+			"mainPicId_en" : "7900",
+			"station" : "Wuppertal-Oberbarmen"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 6950,
+			"cityTitle" : "Wurzen",
+			"evaNummer" : 8013361,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "300",
+			"mainPicId_en" : "7934",
+			"station" : "Wurzen"
+		}, {
+			"type" : "stationCms",
+			"bahnhofsNummer" : 7068,
+			"cityTitle" : "Zwickau",
+			"evaNummer" : 8010397,
+			"isDbBahnpark" : true,
+			"isPublished" : true,
+			"mainPicId" : "18281",
+			"mainPicId_en" : "18283",
+			"station" : "Zwickau (Sachs) Hbf"
+		}
+	]
+}

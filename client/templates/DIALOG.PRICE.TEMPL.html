@@ -1,0 +1,41 @@
+<md-dialog aria-label="Mango (Fruit)">
+    <form ng-cloak>
+        <md-toolbar>
+            <div class="md-toolbar-tools">
+                <h2>Preisübersicht</h2>
+                <span flex></span>
+                <md-button class="md-icon-button" ng-click="closeDialog()">
+                    <md-icon class="material-icons" aria-label="close">close</md-icon>
+                </md-button>
+            </div>
+        </md-toolbar>
+
+        <md-list flex>
+            <md-list-item ng-hide="!site.tarif30Min">
+                30 Minuten<span flex></span>{{site.tarif30Min}}
+            </md-list-item>
+            <md-list-item ng-hide="!site.tarif1Std">
+                    Stunde<span flex></span>{{site.tarif1Std}}
+            </md-list-item>
+            <md-list-item ng-hide="!site.tarif1Tag">
+                Tag<span flex></span>{{site.tarif1Tag}}
+            </md-list-item>
+
+            <md-divider></md-divider>
+            <md-list-item ng-hide="!site.zahlungMedien">
+                <md-icon class="material-icons" aria-label="">info_outline</md-icon>
+                <div class="md-list-item-text">
+                    <p>{{site.zahlungMedien}}</p>
+                </div>
+                <span flex></span>
+            </md-list-item>
+        </md-list>
+
+        <md-dialog-actions>
+            <md-button ng-click="closeDialog()">
+                Schließen
+            </md-button>
+        </md-dialog-actions>
+    </form>
+</md-dialog>
+

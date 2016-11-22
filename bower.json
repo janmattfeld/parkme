@@ -1,0 +1,24 @@
+{
+  "name": "ParkMe",
+  "description": "ParkMe",
+  "authors": [
+    {
+      "name": "Jan Mattfeld",
+      "email": "Jan.Mattfeld@student.hpi.de"
+    }
+  ],
+  "license": "MIT",
+  "private": true,
+  "homepage": "",
+  "dependencies": {
+    "angular": "1.5.x",
+    "angular-material": "1.1.x",
+    "leaflet": "^1.0.1",
+    "Leaflet.MakiMarkers": "jseppi/Leaflet.MakiMarkers#^2.0.0",
+    "leaflet-routing-machine": "^3.1.2",
+    "Leaflet.GeometryUtil": "makinacorpus/Leaflet.GeometryUtil#^0.4.0"
+  },
+  "resolutions": {
+    "leaflet": "^1.0.1"
+  }
+}

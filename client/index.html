@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="playerApp">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>ParkMe</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="favicon.png" type="image/png">
+    <link rel="stylesheet" href="bower_components/angular-material/angular-material.css">
+    <link rel="stylesheet" href="bower_components/leaflet/dist/leaflet.css">
+    <link rel="stylesheet" href="bower_components/leaflet-routing-machine/dist/leaflet-routing-machine.css">
+    <link rel="stylesheet" href="https://unpkg.com/esri-leaflet-geocoder@2.1.4/dist/esri-leaflet-geocoder.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+</head>
+
+<body id="map" ng-controller="mainController" ng-cloak layout="column">
+
+<md-sidenav class="md-sidenav-left" id="left" md-component-id="left" md-is-locked-open="$mdMedia('gt-md')"
+            md-is-open="isSidenavOpen"
+            md-disable-backdrop md-whiteframe="4" style="z-index: 800" ng-hide="!selectedSite">
+
+    <!--Site Photo-->
+
+    <md-toolbar>
+        <image style="max-width: 100%; object-fit: contain; max-height: 100%;"
+               ng-src="{{selectedSite.picture}}"></image>
+        <div class="md-toolbar-tools">
+            <h2><span>{{selectedSite.title}}</span></h2>
+            <span flex></span>
+            <md-button class="md-fab md-mini" aria-label="directions" ng-click="findRoute()">
+                <md-icon class="material-icons" aria-label=directions>directions</md-icon>
+            </md-button>
+        </div>
+    </md-toolbar>
+
+
+    <!--Location-->
+    <md-list flex>
+        <md-list-item ng-hide="!selectedSite.address">
+            <md-icon class="material-icons" aria-label="">location_on</md-icon>
+            <div class="md-list-item-text">
+                <p>{{selectedSite.address}}</p>
+            </div>
+            <span flex></span>
+        </md-list-item>
+        <md-list-item ng-hide="!selectedSite.hinweise">
+            <md-icon class="material-icons" aria-label="">directions</md-icon>
+            <div class="md-list-item-text">
+                <p>{{selectedSite.hinweise}}</p>
+            </div>
+            <span flex></span>
+        </md-list-item>
+
+        <!--Status-->
+        <md-divider></md-divider>
+        <md-list-item ng-hide="!selectedSite.parkraumOeffnungszeiten">
+            <md-icon class="material-icons" aria-label="">access_time</md-icon>
+            <div class="md-list-item-text">
+                <p>{{selectedSite.parkraumOeffnungszeiten}}</p>
+            </div>
+            <span flex></span>
+        </md-list-item>
+        <md-list-item ng-hide="!selectedSite.freeSpace">
+            <md-icon class="material-icons" aria-label="">local_parking</md-icon>
+            <div class="md-list-item-text">
+                <p>{{selectedSite.freeSpace}}</p>
+            </div>
+            <span flex></span>
+        </md-list-item>
+
+        <!--Occupancy Graph-->
+        <!--<nvd3 options="options" data="data"></nvd3>-->
+
+        <!--Current Trains Departing-->
+        <md-divider ng-hide="!selectedSite.departures"></md-divider>
+        <md-list-item ng-click="showDepartureDialog($event)" ng-hide="!selectedSite.departures">
+            <md-icon class="material-icons" aria-label="departures">train</md-icon>
+            <div class="md-list-item-text">
+                <p>Abfahrtstafel</p>
+            </div>
+            <span flex></span>
+        </md-list-item>
+
+        <!--Price-->
+        <md-divider></md-divider>
+        <md-list-item ng-click="showPriceDialog($event)" ng-hide="!selectedSite.tarif1StdLabel">
+            <md-icon class="material-icons" aria-label="">euro_symbol</md-icon>
+            <div class="md-list-item-text">
+                <p>Preise ab {{selectedSite.tarif1StdLabel}}</p>
+            </div>
+            <span flex></span>
+        </md-list-item>
+        <md-divider></md-divider>
+
+        <!--Further Information-->
+        <md-list-item ng-hide="!selectedSite.parkraumBetreiber">
+            <md-icon class="material-icons" aria-label="">info_outline</md-icon>
+            <div class="md-list-item-text">
+                <p>{{selectedSite.parkraumBetreiber}}</p>
+            </div>
+            <span flex></span>
+        </md-list-item>
+    </md-list>
+
+    <span flex></span>
+
+    <md-divider></md-divider>
+    <div layout="row" layout-align="end end">
+        <md-button class="md-raised" ng-click="toggleLeft()" hide-gt-md>
+            Schließen
+        </md-button>
+    </div>
+</md-sidenav>
+
+
+<div layout="row" layout-align="start start">
+    <md-button class="md-fab" aria-label="Menu" ng-click="toggleLeft()" style="z-index: 700" hide-gt-md show-lt-md
+               ng-show="!isSidenavOpen"  ng-hide="!selectedSite.title">
+        <md-icon class="material-icons control-overlay" aria-label="filter_list">filter_list</md-icon>
+    </md-button>
+</div>
+<span flex></span>
+<div layout="row" layout-align="end end">
+    <md-button class="md-fab" aria-label="locate_me" ng-click="locateMe()" layout-align="end end"
+               style="z-index: 800">
+        <md-icon class="material-icons control-overlay" aria-label="filter_list">my_location</md-icon>
+    </md-button>
+</div>
+
+<script src="bower_components/angular/angular.js"></script>
+<script src="bower_components/angular-aria/angular-aria.js"></script>
+<script src="bower_components/angular-animate/angular-animate.js"></script>
+<script src="bower_components/angular-material/angular-material.js"></script>
+<script src="bower_components/leaflet/dist/leaflet.js"></script>
+<script src="bower_components/leaflet-routing-machine/dist/leaflet-routing-machine.js"></script>
+<script src="bower_components/Leaflet.MakiMarkers/Leaflet.MakiMarkers.js"></script>
+<script src="bower_components/Leaflet.GeometryUtil/dist/leaflet.geometryutil.js"></script>
+<script src="https://unpkg.com/esri-leaflet@2.0.3"></script>
+<script src="https://unpkg.com/esri-leaflet-geocoder@2.1.4"></script>
+
+<script src="js/app.js"></script>
+<script src="js/controllers.js"></script>
+
+</body>
+</html>

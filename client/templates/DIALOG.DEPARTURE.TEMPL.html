@@ -1,0 +1,29 @@
+<md-dialog aria-label="Mango (Fruit)">
+    <form ng-cloak>
+        <md-toolbar>
+            <div class="md-toolbar-tools">
+                <h2>Abfahrtstafel</h2>
+                <span flex></span>
+                <md-button class="md-icon-button" ng-click="closeDialog()">
+                    <md-icon class="material-icons" aria-label="close">close</md-icon>
+                </md-button>
+            </div>
+        </md-toolbar>
+
+        <md-list flex>
+            <md-list-item ng-repeat="departure in site.departures" class="md-2-line">
+                <div class="md-list-item-text" ng-class="{'md-offset': phone.options.offset }">
+                    <h3>{{departure.departure | date: 'hh:mm'}}<span flex></span> {{departure.destination}}</h3>
+                    <p>{{departure.name}} auf Gleis {{departure.platform}}</p>
+                </div>
+            </md-list-item>
+        </md-list>
+
+        <md-dialog-actions>
+            <md-button ng-click="closeDialog()">
+                Schließen
+            </md-button>
+        </md-dialog-actions>
+    </form>
+</md-dialog>
+
