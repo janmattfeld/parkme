@@ -34,7 +34,7 @@ playerControllers.controller('mainController', ['$scope', '$timeout', '$mdSidena
     var geocodeService = L.esri.Geocoding.geocodeService();
 
     // Prepare API Token
-    L.MakiMarkers.accessToken = "MAPBOX_TOKEN";
+    L.MakiMarkers.accessToken = "pk.eyJ1IjoiamFubWF0dGZlbGQiLCJhIjoiY2o1bXR2bDNiMzhsNDMybzIzcG0zdzNlaSJ9.GtZwP41YKdXl-o4bFjAxyw";
 
     // Add tile layer
     L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=' + L.MakiMarkers.accessToken, {id: 'mapbox.streets'}).addTo(map);
