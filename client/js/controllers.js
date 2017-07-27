@@ -27,7 +27,9 @@ playerControllers.controller('mainController', ['$scope', '$timeout', '$mdSidena
     // Initialize Map
     var map = L.map('map', {
         zoomControl: false,
-        attributionControl: false
+        attributionControl: false,
+        center: [52.5, 13.05],
+        zoom: 13
     });
 
     // Prepare Geocoding to get parking space addresses
