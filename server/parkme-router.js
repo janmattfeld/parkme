@@ -2,7 +2,7 @@
 
 const router = module.exports = require('express').Router();
 
-const fahrplan = require('fahrplan')("DBKEY");
+const fahrplan = require('fahrplan')("DBhackFrankfurt0316");
 const request = require('request');
 
 /*
