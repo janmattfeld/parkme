@@ -19,6 +19,7 @@
     "Leaflet.GeometryUtil": "makinacorpus/Leaflet.GeometryUtil#^0.4.0"
   },
   "resolutions": {
-    "leaflet": "^1.0.1"
+    "leaflet": "^1.0.1",
+    "angular": "1.5.x"
   }
 }
