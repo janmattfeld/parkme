@@ -41,7 +41,13 @@ playerControllers.controller('mainController', ['$scope', '$timeout', '$mdSidena
 
     // Find user's position and zoom to closest parking space
     $scope.locateMe = function () {
-        map.locate({setView: true});
+        // Not available over insecure HTTP anymore
+        // map.locate({setView: true});
+        var position = {lat:52.5, lng:13.05}
+        map.flyTo(position);
+        $scope.myPosition = position;
+        _addMyLocationMarker();
+        _showClosestParkingSpace();
     };
     map.on('locationfound', function (oEvent) {
         $scope.myPosition = oEvent.latlng;
