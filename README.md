@@ -1,6 +1,6 @@
 # ParkMe
 
-> ParkMe is a responsive parking space finder based on Node.js, Express and Angular.
+> ParkMe is a responsive parking space finder based on Node.js, Express and Angular -- [Live-DEMO](http://parkme-db.herokuapp.com/)
 
 ![parkMe Screenshot](./media/parkme.PNG)
 
@@ -12,6 +12,7 @@
 - Show additional information like free spaces and price
 - Show current departures of a selected station (Deutsche Bahn Fahrplan API)
 - A Node.js/Express server for both, App and APIs
+
 
 ## Author
 
